@@ -1,0 +1,25 @@
+{
+  "name": "dump",
+  "version": "0.0.1",
+  "homepage": "https://github.com/wkentdag/dump",
+  "authors": [
+    "Will Kent-Daggett <willkentdaggett@gmail.com>"
+  ],
+  "description": "demo",
+  "main": "app.js",
+  "moduleType": [],
+  "license": "ISC",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "public/lib",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "~2.1.4",
+    "socket.io-client": "~1.3.7"
+  }
+}

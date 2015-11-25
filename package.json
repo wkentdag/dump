@@ -1,0 +1,24 @@
+{
+  "name": "dump",
+  "version": "0.0.1",
+  "description": "demo",
+  "main": "app.js",
+  "dependencies": {
+    "express.io": "^1.1.13"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "npm test",
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wkentdag/dump.git"
+  },
+  "author": "will kent-daggett",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wkentdag/dump/issues"
+  },
+  "homepage": "https://github.com/wkentdag/dump#readme"
+}
